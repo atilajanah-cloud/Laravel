@@ -30,7 +30,15 @@
                 </tr>
                 <tr>
                     <td class="label">Instagram</td>
-                    <td class="value">@jnnhatila_</td>
+                    <td class="value">
+                        <a href="https://www.instagram.com/jnnhatila_" target="_blank" rel="noopener noreferrer" class="contact-link">@jnnhatila_</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">GitHub</td>
+                    <td class="value">
+                        <a href="https://github.com/atilajanah-cloud" target="_blank" rel="noopener noreferrer" class="contact-link">atilajanah-cloud</a>
+                    </td>
                 </tr>
             </tbody>
         </table>

@@ -120,6 +120,7 @@ body {
 .navbar-brand {
     font-size: 1.25rem;
     font-weight: 800;
+    background: var(--primary-gradient);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -458,6 +459,20 @@ body {
 .info-table .value {
     color: var(--text-main);
     font-size: 0.95rem;
+}
+
+.info-table a,
+.contact-link {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s ease;
+}
+
+.info-table a:hover,
+.contact-link:hover {
+    color: var(--primary-hover);
+    text-decoration: underline;
 }
 
 /* 12. Timeline & Activity List */
